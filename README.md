@@ -14,14 +14,8 @@
 ![Git](https://img.shields.io/badge/git-181717?style=flat&logo=Git&logoColor=white) 
 ![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white) 
 <img src="https://img.shields.io/badge/JPA-green"/>
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white) 
 <img src="https://img.shields.io/badge/Mybatis-gray"/>
 <img src="https://img.shields.io/badge/SVN-819EC8"/>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu-&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C-&logoColor=white)  
 
 
 
